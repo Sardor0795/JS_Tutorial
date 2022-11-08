@@ -1,0 +1,4 @@
+pwd - print working directory
+cd - change directory
+mkdir - make directory
+touch - create a file
