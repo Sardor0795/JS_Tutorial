@@ -1,0 +1,6 @@
+JS
+
+JS is Multi paradigme language
+
+One paradigme = OOP or Functional
+Multi paradigme = Includes both
