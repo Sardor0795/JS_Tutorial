@@ -1,0 +1,8 @@
+JS is single thread programming language
+
+Variable declaration = var let const
+
+Data types in JS 8 :
+
+Primitive : string, number, boolean, symbol, bigint, undefined, null
+Non-primitive: Object(function, array, object)
