@@ -1,0 +1,8 @@
+If else
+
+error binding
+
+if stops 1st true
+
+nullish
+
