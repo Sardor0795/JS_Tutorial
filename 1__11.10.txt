@@ -1,4 +1,5 @@
 --- Java Script ---
+--- Variables, Data Types ---
 
 Invented by Brendan Each in 1995
 Multi paradigme language
