@@ -1,5 +1,5 @@
 // Lesson 3
--- If else, Ternarny operator Nullish ---
+-- If else, Ternarny operator, Nullish ---
 
 
 // If, else
