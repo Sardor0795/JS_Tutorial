@@ -1,4 +1,5 @@
 --- Java Script 2 Lesson --
+--- Type Conversion, Comparision, Logical Operators ---
 
 Type Conversion - (changes data types)
 
