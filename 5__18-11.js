@@ -68,3 +68,8 @@
 // };
 
 // myFunc(callFunc);
+
+// Function with return vs Function without return ---
+
+// if we calculate smth and need this value we use return to get the value
+// if we don't need any calculated value from function then we don't use return
