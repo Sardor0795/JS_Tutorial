@@ -52,6 +52,6 @@
 // - Reference and copy
     // copy obj vs copy number
     // comparision reference and value objs
-    // Object.assign(dest, source)
+    // Object.assign(dest, source) // if obj in obj it will be ref
 
-    // -structuredClone - clone only values not ref
+    // -structuredClone - in obj in obj it will be deeply cloned
