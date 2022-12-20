@@ -15,6 +15,8 @@ let milsec = time.getMilliseconds(); // 1-1000 = 1 sec
 let publicTime = time.getTime(); // time calculated from 1970
 let publicTime2 = Date.now(); // time calculated from 1970
 
+let fulTime = time.toDateString(); // full time
+
 // console.log(`${hour - 12} : ${minute} : ${second}`);
 
 let week = [
