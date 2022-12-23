@@ -7,18 +7,18 @@
 
 // Callbacks ----
 
-let database = {
-  jim: {
-    name: "Jimmy",
-    login: "jim",
-    password: "jim",
-  },
-  ann: {
-    name: "Ann",
-    login: "anna",
-    password: "ann",
-  },
-};
+// let database = {
+//   jim: {
+//     name: "Jimmy",
+//     login: "jim",
+//     password: "jim",
+//   },
+//   ann: {
+//     name: "Ann",
+//     login: "anna",
+//     password: "ann",
+//   },
+// };
 
 // console.log("Start...");
 
@@ -122,22 +122,22 @@ let database = {
 
 // Async await
 
-console.log("Start...");
+// console.log("Start...");
 
-let user = new Promise((resolve, reject) => {
-  setTimeout(() => {
-    if (database.jim.login == "jim" && database.jim.password == "jim") {
-      return resolve(`Welcome ${database.jim.name}`);
-    } else {
-      return reject(`Login yoki parol xato`);
-    }
-  }, 1000);
-});
+// let user = new Promise((resolve, reject) => {
+//   setTimeout(() => {
+//     if (database.jim.login == "jim" && database.jim.password == "jim") {
+//       return resolve(`Welcome ${database.jim.name}`);
+//     } else {
+//       return reject(`Login yoki parol xato`);
+//     }
+//   }, 1000);
+// });
 
-const get = async () => {
-  let res = await user;
-  console.log(res);
-  console.log("Finished...");
-};
+// const get = async () => {
+//   let res = await user;
+//   console.log(res);
+//   console.log("Finished...");
+// };
 
-get();
+// get();
